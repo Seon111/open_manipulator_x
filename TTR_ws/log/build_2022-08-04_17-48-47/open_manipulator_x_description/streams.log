@@ -1,0 +1,45 @@
+[0.016s] Invoking command in '/home/csi/TTR_ws/build/open_manipulator_x_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/csi/TTR_ws/build/open_manipulator_x_description -- -j16 -l16
+[0.040s] Invoked command in '/home/csi/TTR_ws/build/open_manipulator_x_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/csi/TTR_ws/build/open_manipulator_x_description -- -j16 -l16
+[0.057s] Invoking command in '/home/csi/TTR_ws/build/open_manipulator_x_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/csi/TTR_ws/build/open_manipulator_x_description
+[0.063s] -- Install configuration: ""
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch/gazebo_world.launch.py
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link4.stl
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link3.stl
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link1.stl
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link2.stl
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/paddle.stl
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/rviz
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/rviz/open_manipulator_x.rviz
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x_robot.urdf.xacro
+[0.063s] -- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.urdf.xacro
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.transmission.xacro
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.control.xacro
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.gazebo.xacro
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/config
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/config/open_manipulator_x_controller.yaml
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles
+[0.063s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models/ball
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models/ball/model.sdf
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models/ball/model.config
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/worlds
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/worlds/table_tennis.world
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/ament_index/resource_index/package_run_dependencies/open_manipulator_x_description
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/ament_index/resource_index/parent_prefix_path/open_manipulator_x_description
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/ament_prefix_path.sh
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/ament_prefix_path.dsv
+[0.064s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/path.sh
+[0.066s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/path.dsv
+[0.066s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.bash
+[0.066s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.sh
+[0.066s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.zsh
+[0.066s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.dsv
+[0.066s] -- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/package.dsv
+[0.067s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/ament_index/resource_index/packages/open_manipulator_x_description
+[0.067s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/cmake/open_manipulator_x_descriptionConfig.cmake
+[0.067s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/cmake/open_manipulator_x_descriptionConfig-version.cmake
+[0.067s] -- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/package.xml
+[0.067s] Invoked command in '/home/csi/TTR_ws/build/open_manipulator_x_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/csi/TTR_ws/build/open_manipulator_x_description

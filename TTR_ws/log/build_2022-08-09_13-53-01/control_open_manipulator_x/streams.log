@@ -1,0 +1,21 @@
+[0.406s] Invoking command in '/home/csi/TTR_ws/src/open_manipulator/control_open_manipulator_x': PYTHONPATH=/home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/control_open_manipulator_x build --build-base /home/csi/TTR_ws/build/control_open_manipulator_x/build install --prefix /home/csi/TTR_ws/install/control_open_manipulator_x --record /home/csi/TTR_ws/build/control_open_manipulator_x/install.log --single-version-externally-managed
+[0.530s] running egg_info
+[0.530s] writing ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/PKG-INFO
+[0.530s] writing dependency_links to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/dependency_links.txt
+[0.530s] writing entry points to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/entry_points.txt
+[0.530s] writing requirements to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/requires.txt
+[0.530s] writing top-level names to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/top_level.txt
+[0.550s] reading manifest file '../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/SOURCES.txt'
+[0.550s] writing manifest file '../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/SOURCES.txt'
+[0.550s] running build
+[0.550s] running build_py
+[0.550s] running install
+[0.551s] running install_lib
+[0.552s] running install_data
+[0.552s] running install_egg_info
+[0.553s] removing '/home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x-0.0.0-py3.8.egg-info' (and everything under it)
+[0.553s] Copying ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info to /home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x-0.0.0-py3.8.egg-info
+[0.553s] running install_scripts
+[0.563s] Installing action_control script to /home/csi/TTR_ws/install/control_open_manipulator_x/lib/control_open_manipulator_x
+[0.563s] writing list of installed files to '/home/csi/TTR_ws/build/control_open_manipulator_x/install.log'
+[0.578s] Invoked command in '/home/csi/TTR_ws/src/open_manipulator/control_open_manipulator_x' returned '0': PYTHONPATH=/home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/control_open_manipulator_x build --build-base /home/csi/TTR_ws/build/control_open_manipulator_x/build install --prefix /home/csi/TTR_ws/install/control_open_manipulator_x --record /home/csi/TTR_ws/build/control_open_manipulator_x/install.log --single-version-externally-managed

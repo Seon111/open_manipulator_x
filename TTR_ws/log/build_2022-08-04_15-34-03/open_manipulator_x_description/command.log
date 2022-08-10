@@ -1,0 +1,6 @@
+Invoking command in '/home/csi/TTR_ws/build/open_manipulator_x_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/csi/TTR_ws/src/open_manipulator/open_manipulator_x_description -DCMAKE_INSTALL_PREFIX=/home/csi/TTR_ws/install/open_manipulator_x_description
+Invoked command in '/home/csi/TTR_ws/build/open_manipulator_x_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/csi/TTR_ws/src/open_manipulator/open_manipulator_x_description -DCMAKE_INSTALL_PREFIX=/home/csi/TTR_ws/install/open_manipulator_x_description
+Invoking command in '/home/csi/TTR_ws/build/open_manipulator_x_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/csi/TTR_ws/build/open_manipulator_x_description -- -j16 -l16
+Invoked command in '/home/csi/TTR_ws/build/open_manipulator_x_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/csi/TTR_ws/build/open_manipulator_x_description -- -j16 -l16
+Invoking command in '/home/csi/TTR_ws/build/open_manipulator_x_description': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/csi/TTR_ws/build/open_manipulator_x_description
+Invoked command in '/home/csi/TTR_ws/build/open_manipulator_x_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/csi/TTR_ws/build/open_manipulator_x_description

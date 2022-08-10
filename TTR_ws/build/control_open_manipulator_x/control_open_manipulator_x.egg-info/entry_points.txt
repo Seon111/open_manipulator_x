@@ -1,0 +1,3 @@
+[console_scripts]
+action_control = control_open_manipulator_x.action_control:main
+

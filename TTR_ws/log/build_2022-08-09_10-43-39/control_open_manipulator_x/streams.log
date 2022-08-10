@@ -1,0 +1,36 @@
+[0.441s] Invoking command in '/home/csi/TTR_ws/src/open_manipulator/control_open_manipulator_x': PYTHONPATH=/home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/control_open_manipulator_x build --build-base /home/csi/TTR_ws/build/control_open_manipulator_x/build install --prefix /home/csi/TTR_ws/install/control_open_manipulator_x --record /home/csi/TTR_ws/build/control_open_manipulator_x/install.log --single-version-externally-managed
+[0.564s] running egg_info
+[0.564s] creating ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info
+[0.564s] writing ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/PKG-INFO
+[0.564s] writing dependency_links to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/dependency_links.txt
+[0.565s] writing entry points to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/entry_points.txt
+[0.565s] writing requirements to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/requires.txt
+[0.565s] writing top-level names to ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/top_level.txt
+[0.574s] writing manifest file '../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/SOURCES.txt'
+[0.592s] reading manifest file '../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/SOURCES.txt'
+[0.593s] writing manifest file '../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info/SOURCES.txt'
+[0.593s] running build
+[0.593s] running build_py
+[0.593s] creating /home/csi/TTR_ws/build/control_open_manipulator_x/build
+[0.593s] creating /home/csi/TTR_ws/build/control_open_manipulator_x/build/lib
+[0.593s] creating /home/csi/TTR_ws/build/control_open_manipulator_x/build/lib/control_open_manipulator_x
+[0.593s] copying control_open_manipulator_x/action_control.py -> /home/csi/TTR_ws/build/control_open_manipulator_x/build/lib/control_open_manipulator_x
+[0.593s] copying control_open_manipulator_x/__init__.py -> /home/csi/TTR_ws/build/control_open_manipulator_x/build/lib/control_open_manipulator_x
+[0.593s] running install
+[0.594s] running install_lib
+[0.594s] creating /home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x
+[0.594s] copying /home/csi/TTR_ws/build/control_open_manipulator_x/build/lib/control_open_manipulator_x/action_control.py -> /home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x
+[0.594s] copying /home/csi/TTR_ws/build/control_open_manipulator_x/build/lib/control_open_manipulator_x/__init__.py -> /home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x
+[0.594s] byte-compiling /home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x/action_control.py to action_control.cpython-38.pyc
+[0.595s] byte-compiling /home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x/__init__.py to __init__.cpython-38.pyc
+[0.595s] running install_data
+[0.595s] creating /home/csi/TTR_ws/install/control_open_manipulator_x/share/ament_index
+[0.595s] creating /home/csi/TTR_ws/install/control_open_manipulator_x/share/ament_index/resource_index
+[0.595s] creating /home/csi/TTR_ws/install/control_open_manipulator_x/share/ament_index/resource_index/packages
+[0.595s] copying resource/control_open_manipulator_x -> /home/csi/TTR_ws/install/control_open_manipulator_x/share/ament_index/resource_index/packages
+[0.596s] copying package.xml -> /home/csi/TTR_ws/install/control_open_manipulator_x/share/control_open_manipulator_x
+[0.596s] running install_egg_info
+[0.596s] Copying ../../../build/control_open_manipulator_x/control_open_manipulator_x.egg-info to /home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages/control_open_manipulator_x-0.0.0-py3.8.egg-info
+[0.597s] running install_scripts
+[0.607s] writing list of installed files to '/home/csi/TTR_ws/build/control_open_manipulator_x/install.log'
+[0.624s] Invoked command in '/home/csi/TTR_ws/src/open_manipulator/control_open_manipulator_x' returned '0': PYTHONPATH=/home/csi/TTR_ws/install/control_open_manipulator_x/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/control_open_manipulator_x build --build-base /home/csi/TTR_ws/build/control_open_manipulator_x/build install --prefix /home/csi/TTR_ws/install/control_open_manipulator_x --record /home/csi/TTR_ws/build/control_open_manipulator_x/install.log --single-version-externally-managed

@@ -1,0 +1,63 @@
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclcpp: 2.4.1 (/opt/ros/foxy/share/rclcpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/csi/TTR_ws/build/open_manipulator_x_description
+-- Install configuration: ""
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch/gazebo_world.launch.py
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch/multi_spawn_robot.launch.py
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch/open_manipulator_x_gazebo.launch.py
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch/spawn_robot.launch.py
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/launch/muli_open_manipulator_x_gazebo.launch.py
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link4.stl
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link3.stl
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link1.stl
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/chain_link2.stl
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/meshes/paddle.stl
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/rviz
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/rviz/open_manipulator_x.rviz
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x_robot.urdf.xacro
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.urdf.xacro
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.transmission.xacro
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.control.xacro
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/urdf/open_manipulator_x.gazebo.xacro
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/config
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/config/open_manipulator_x_controller.yaml
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models/ball
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models/ball/model.sdf
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/GazeboFiles/models/ball/model.config
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/worlds
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/worlds/table_tennis.world
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/lib/open_manipulator_x_description/spawn_open_manipulator_x.py
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/ament_index/resource_index/package_run_dependencies/open_manipulator_x_description
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/ament_index/resource_index/parent_prefix_path/open_manipulator_x_description
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/ament_prefix_path.sh
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/path.sh
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/environment/path.dsv
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.bash
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.sh
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.zsh
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/local_setup.dsv
+-- Installing: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/package.dsv
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/ament_index/resource_index/packages/open_manipulator_x_description
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/cmake/open_manipulator_x_descriptionConfig.cmake
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/cmake/open_manipulator_x_descriptionConfig-version.cmake
+-- Up-to-date: /home/csi/TTR_ws/install/open_manipulator_x_description/share/open_manipulator_x_description/package.xml

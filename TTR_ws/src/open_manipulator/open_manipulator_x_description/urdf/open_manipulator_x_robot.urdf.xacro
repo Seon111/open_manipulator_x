@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<robot name="open_manipulator_x"
+    xmlns:xacro="http://ros.rog/wiki/xacro">
+
+    <xacro:include filename="$(find open_manipulator_x_description)/urdf/open_manipulator_x.urdf.xacro"/>
+    <xacro:include filename="$(find open_manipulator_x_description)/urdf/open_manipulator_x.control.xacro"/>
+    <xacro:include filename="$(find open_manipulator_x_description)/urdf/open_manipulator_x.transmission.xacro"/>
+    <xacro:include filename="$(find open_manipulator_x_description)/urdf/open_manipulator_x.gazebo.xacro"/>
+
+    <link name="world"/>
+
+    <joint name="world_fixed" type="fixed">
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+        <parent link="world"/>
+        <child link="link0"/>
+    </joint>
+
+</robot>

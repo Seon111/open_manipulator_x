@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro">
+
+    <ros2_control name="GazeboSystem" type="system">
+        <hardware>
+            <plugin>gazebo_ros2_control/GazeboSystem</plugin>
+        </hardware>
+
+        <joint name="prismatic_joint">
+            <command_interface name="position">
+                <param name="min">-0.4</param>
+                <param name="max">0.4</param>
+            </command_interface>
+            <state_interface name="position"/>
+            <state_interface name="velocity"/>
+            <state_interface name="effort"/>
+        </joint>
+
+        <joint name="joint1">
+            <command_interface name="position">
+                <param name="min">-2.82743338823</param>
+                <param name="max">2.82743338823</param>
+            </command_interface>
+            <state_interface name="position"/>
+            <state_interface name="velocity"/>
+            <state_interface name="effort"/>
+        </joint>
+
+        <joint name="joint2">
+            <command_interface name="position">
+                <param name="min">-1.79070781255</param>
+                <param name="max">1.57079632679</param>
+            </command_interface>
+            <state_interface name="position"/>
+            <state_interface name="velocity"/>
+            <state_interface name="effort"/>
+        </joint>
+
+        <joint name="joint3">
+            <command_interface name="position">
+                <param name="min">-0.94247779607</param>
+                <param name="max">1.38230076758</param>
+            </command_interface>
+            <state_interface name="position"/>
+            <state_interface name="velocity"/>
+            <state_interface name="effort"/>
+        </joint>
+
+        <joint name="joint4">
+            <command_interface name="position">
+                <param name="min">-3.14</param>
+                <param name="max">3.14</param>
+            </command_interface>
+            <state_interface name="position"/>
+            <state_interface name="velocity"/>
+            <state_interface name="effort"/>
+        </joint>
+    </ros2_control>
+
+    <gazebo>
+        <plugin name="gazebo_ros2_control" filename="libgazebo_ros2_control.so">
+            <!--robot_sim_type>gazebo_ros2_control/DefaultRobotHWSim</robot_sim_type-->
+            <ros>
+                <namespace>/robot1</namespace>
+            </ros>
+            <robot_sim_type>gazebo_ros2_control/GazeboSystem</robot_sim_type>
+            <parameters>$(find open_manipulator_x_description)/config/open_manipulator_x_controller.yaml</parameters>
+        </plugin>
+    </gazebo>
+
+</robot>
