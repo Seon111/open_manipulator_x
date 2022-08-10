@@ -1,3 +1,7 @@
 # open_manipulator_x
-# Ros2 foxy
+
 Control open manipulator X in gazebo with gazebo_ros2_control
+
+Ubuntu 20.04
+
+Ros2 foxy
